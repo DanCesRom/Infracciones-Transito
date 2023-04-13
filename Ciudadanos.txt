@@ -1,0 +1,4 @@
+402-93783-2:Juan Angel Campusano Guzman:Altos de Arroyo Hondo III, La Pelona #13:Tipo A:01/01/2004
+404-74634-4:Antonio Leslie Garcia:Los Rios, calle Crili #2:Tipo B:03/11/2003
+
+Cedula:Nombre:Direccion:Tipo de Licensia:Fecha de Nacimiento

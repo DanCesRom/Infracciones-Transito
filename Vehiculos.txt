@@ -1,0 +1,4 @@
+Juan Angel Campusano Guzman:A046285:Ferrari:SF90 Stradale:Rojo:2020:ZFF95NLA7M0263166
+Antonio Leslie Garcia:A837483:Volvo:XC-90:Negro:2018:KKV7LNLA1Z9261166
+
+Dueno:Placa:Marca:Modelo:Color:Anio:VIN
